@@ -14,7 +14,7 @@ public class ApiVO {
 	private int SNO;
 	private String DEPT;
     private String PRODUCT;
-    private String ACTION;
+    private String ACTION;   
     private String COUNT;
     private String WITHINSLA;
     private String OUTOFSLA;
